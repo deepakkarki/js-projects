@@ -1,1 +1,1 @@
-bunch of JS projects from WesBos's JS 30 series.
+Bunch of JS projects from WesBos's JS 30 series.
