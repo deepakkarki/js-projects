@@ -1,6 +1,6 @@
 # Fun with HTML5 canvas
 
-This is the fourth project of WesBos's [JS30 series](https://javascript30.com). 
+This is the eighth project of WesBos's [JS30 series](https://javascript30.com). 
 We will be creating a drawing canvas as seen below!
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/8ZGAzJ0drl0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
