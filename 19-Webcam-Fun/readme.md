@@ -1,6 +1,6 @@
 # Webcam fun
 
-This is the 18th project of WesBos's [JS30 series](https://javascript30.com).
+This is the 19th project of WesBos's [JS30 series](https://javascript30.com).
 Today we'll use getUserMedia and Canvas to capture a video stream from a user's webcam and manipulate the pixels.
 
 Video -
