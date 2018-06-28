@@ -1,6 +1,6 @@
 # JS Events
 
-This is the 24th project of WesBos's [JS30 series](https://javascript30.com).
+This is the 25th project of WesBos's [JS30 series](https://javascript30.com).
 In this exercise we'll play with JS events - bubbling, capture and one time events.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/F1anRyL37lE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
